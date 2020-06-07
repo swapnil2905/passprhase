@@ -7,3 +7,4 @@ No external scripts, no counters and other suspicious stuff - just plain vanilla
 The only dependency is Bootstrap CSS from official CDN to make the page a bit prettier.
 
 You can use it directly from GitHub https://swapnil2905.github.io/passprhase/ or clone/download the page and run it locally.
+![](image.png)
